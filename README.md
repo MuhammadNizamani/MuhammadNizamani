@@ -3,7 +3,7 @@
 ## I am a Machine Learning Engineer
 
 ### About me
-<!--
+
 **MuhammadNizamani/MuhammadNizamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ishaque.niz786@gmail.com or https://www.linkedin.com/in/muhammad-ishaque-nizamani-109a13194/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am dyslexic
--->
+
