@@ -29,6 +29,14 @@
 - 🙌 My hobbies are : Boosk, Chess and Dota
 - 📎 Check me out here https://myportfolio-mocha-eight.vercel.app/
 
+
+### Github stats 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadNizamani&show_icons=true&theme=merko)
+
+
+### Most Lanugages Used by Me
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNizamani&layout=compact)](https://github.com/MuhammadNizamani/github-readme-stats)
  
 <div id="badges">
   <a href="https://www.linkedin.com/in/muhammad-ishaque-nizamani-109a13194/">
