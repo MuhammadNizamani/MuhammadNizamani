@@ -27,6 +27,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am dyslexic
 - 🙌 My hobbies are : Boosk, Chess and Dota
+- 📎 Check me out here https://myportfolio-mocha-eight.vercel.app/
 
  
 <div id="badges">
