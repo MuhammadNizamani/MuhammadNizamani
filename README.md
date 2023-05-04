@@ -2,6 +2,7 @@
 ![9a17629c5ffff8e9d4b269d745346fab](https://user-images.githubusercontent.com/49721249/225820407-ce638561-2e66-411c-8f3b-b4b8fc1215df.gif)
 
 ## Hello  👋 I am Ishaque
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://github.com/MuhammadNizamani)
 <div id="badges">
   <a href="https://www.linkedin.com/in/muhammad-ishaque-nizamani-109a13194/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
