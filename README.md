@@ -38,7 +38,8 @@
 
 ### Most Lanugages Used by Me
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNizamani&layout=compact)](https://github.com/MuhammadNizamani/github-readme-stats)
- 
+### My streak
+ <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNizamani&theme=dark" alt="so" > </p>
  
  ## My Skill Set  
 <div align="center">  
