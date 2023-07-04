@@ -20,7 +20,7 @@
 
 
 
-- 🔭 I’m currently working on Adversarial attacks and defenses in Computer vision using deep learning
+- 🔭 I’m currently working on IVY here is repo https://github.com/unifyai/ivy
 - 🌱 I’m currently learning Vision Transformer
 - 👯 I’m looking to collaborate on Computer vision project 
 - 🤔 I’m looking for Remote work
