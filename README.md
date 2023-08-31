@@ -29,7 +29,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am dyslexic
 - 🙌 My hobbies are : Books, Chess and Dota
-- 📎 Check me out here https://myportfolio-mocha-eight.vercel.app/
+- 📎 Check me out here https://muhammadishaquedev.vercel.app/
 
 
 ### Github stats 
