@@ -25,6 +25,7 @@
 - 👯 I’m looking to collaborate on Computer vision project 
 - 🤔 I’m looking for Remote work
 - 💬 Ask me about anything except biology
+- 🤓 I am trying to lrean Vuejs frontend endeavor 
 - 📫 How to reach me: ishaque.niz786@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am dyslexic
