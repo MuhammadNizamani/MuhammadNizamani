@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on IVY here is repo https://github.com/unifyai/ivy
 - 🌱 I’m currently learning Vision Transformer
 - 👯 I’m looking to collaborate on Computer vision project 
-- 🤔 I’m looking for Remote work
+- 🤔 I’m actively looking for work 
 - 💬 Ask me about anything except biology
 - 🤓 I am trying to lrean Vuejs frontend endeavor with graphql
 - 📫 How to reach me: ishaque.niz786@gmail.com 
