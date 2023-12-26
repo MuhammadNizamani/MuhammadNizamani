@@ -26,7 +26,7 @@
 - 👯 I’m looking to collaborate on Computer vision project 
 - 🤔 I’m actively looking for work 
 - 💬 Ask me about anything except biology
-- 🤓 I am trying to lrean Vuejs frontend endeavor with graphql
+- 🤓 I am trying to learn Vuejs frontend endeavor with graphql
 - 🤓 I am also learnling MLOps
 - 📫 How to reach me: ishaque.niz786@gmail.com 
 - 😄 Pronouns: He/Him
