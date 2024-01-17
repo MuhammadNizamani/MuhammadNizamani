@@ -46,7 +46,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadNizamani&show_icons=true&theme=merko)
 
-
+### My activaty graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNizamani&hide_border=true&theme=tokyo-night" width="66%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 ### Most Lanugages Used by Me
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNizamani&layout=compact)](https://github.com/MuhammadNizamani/github-readme-stats)
 ### My streak
