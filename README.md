@@ -35,7 +35,7 @@
 - 📎 Check me out here https://muhammadishaquedev.vercel.app/
 
 
-## From Hacktoberfest
+## From HacktoberFest
 <div align="center" width="100%">
 
 [![An image of @muhammadnizamani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadnizamani)](https://holopin.io/@muhammadnizamani)
