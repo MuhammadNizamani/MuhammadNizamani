@@ -3,7 +3,8 @@
 
 ## Hello  👋 I am Muhammad Ishaque Nizamani
 
-## I’m actively looking for work If you have any open Source Project Idea contact me I would Love to help you 
+## I’m actively looking for work 
+### If you have any open Source Project Idea contact me I would Love to help you 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://github.com/MuhammadNizamani)
 <div id="badges">
   <a href="https://www.linkedin.com/in/muhammad-ishaque-nizamani-109a13194/">
