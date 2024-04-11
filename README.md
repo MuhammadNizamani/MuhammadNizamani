@@ -33,7 +33,7 @@
 - 📫 How to reach me: ishaque.niz786@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am dyslexic
-- 🙌 My hobbies are : Books, Chess and Dota
+- 🙌 My hobbies are : Books, Chess and Dota 2
 - 📎 Check me out here https://muhammadishaquedev.vercel.app/
 
 
